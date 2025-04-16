@@ -1,0 +1,10 @@
+﻿  BusController.c
+  CacheController.c
+  FilesManager.c
+  MainMemory.c
+  OpcodeHandlers.c
+  PipelineController.c
+  ProcessorCore.c
+  MultiCoreSim.c
+  Generating Code...
+  MultiCoreSim.vcxproj -> C:\Users\monds\Desktop\MultiCoreProject\MultiCoreSim\Debug\sim.exe
